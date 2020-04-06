@@ -2,4 +2,4 @@
 Treinando Algoritmos
 
 
-![/binary-search.gif]
+![image](binary-search.gif)
